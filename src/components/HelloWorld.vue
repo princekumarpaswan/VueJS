@@ -4,7 +4,7 @@ console.log('hehehe')
 
 
 <template> 
-<h1 class="he" >Hello new</h1>
+<h1 class="he" >Hello new learning</h1>
  </template>
 
  <style>
